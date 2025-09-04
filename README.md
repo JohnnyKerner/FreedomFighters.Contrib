@@ -26,9 +26,9 @@ Last update of the source table: **28th August 2025**.
 | ko       | :x:                | Incomplete. | Partially auto-translated. | -                      |
 | pl       | :x:                | Incomplete. | Partially auto-translated. | -                      |
 | pt       | :white_check_mark: | Incomplete. | -                          | mad_junior1704         |
-| ru       | :white_check_mark: | Incomplete. | -                          | thesnakyeyes           |
+| ru       | :white_check_mark: | Complete.   | -                          | thesnakyeyes           |
 | uk       | :x:                | None.       | -                          | -                      |
-| zh_cn    | :white_check_mark: | Incomplete. | -                          | fantastic_possum_18059 |
+| zh_cn    | :white_check_mark: | Complete.   | -                          | fantastic_possum_18059 |
 
 ## Integrations status
 
