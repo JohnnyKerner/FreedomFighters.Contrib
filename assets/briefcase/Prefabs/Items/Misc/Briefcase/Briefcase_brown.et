@@ -1,0 +1,139 @@
+GenericEntity {
+ ID "661B4EBB1104D70A"
+ components {
+  EPF_PersistenceComponent "{661B4EBB1104D707}" {
+  }
+  FactionAffiliationComponent "{661B4EBB1104D73D}" {
+   "faction affiliation" "CIV"
+  }
+  InventoryItemComponent "{661B4EBB1104D736}" {
+   Enabled 0
+   Attributes SCR_ItemAttributeCollection "{661B4EBB1104D735}" {
+    ItemDisplayName SCR_InventoryUIInfo "{661B4EBB1104D733}" {
+     Name "Briefcase"
+     Description "Briefcase_description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{661B4EBB1104D72F}" {
+     Weight 1
+     SizeSetupStrategy Manual
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{661B4EBB1104D72A}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{661B4EBB1104D728}" {
+       AnimGraph "{44A1E0130301E5F5}Assets/Items/Equipment/workspaces/MedicalKit_supplies.agr"
+       AnimInstance "{A9CBB5C81F08B71B}Assets/Items/Equipment/workspaces/MedicalKit_supplies.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 180 90 90
+     HandAdditiveTranslation 0 0.07 0
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{661B4EBB1104D722}" {
+      CameraPreset Top
+      CameraOrbitAngles 0 0 270
+      CameraDistanceToItem 0.45
+     }
+     CharacterModifierAttributes "{661B4EBB1104D720}" {
+     }
+    }
+    m_Size SLOT_2x2
+    m_eQuickSlotSize SLOT_1x1
+    m_SlotType SLOT_GADGETS_STORAGE
+    m_bStackable 0
+   }
+  }
+  MeshObject "{661B4EBB1104D75C}" {
+   Object "{B6600678BD2515DF}Assets/Items/Misc/Briefcase/Brown/Briefcase_brown.xob"
+  }
+  RigidBody "{661B4EBB1104D75B}" {
+   ModelGeometry 1
+  }
+  SCR_SupportStationGadgetComponent "{661B4EBB1104D759}" {
+   m_eAnimVariable ADRIANOV
+  }
+  SCR_UniversalInventoryStorageComponent "{661B4EBB1104D751}" {
+   Attributes SCR_ItemAttributeCollection "{661B4EBB1104D74E}" {
+    ItemDisplayName SCR_InventoryUIInfo "{661B4EBB1104D74C}" {
+     Name "#TSE-Briefcase_brown"
+     Description "#TSE-Briefcase_description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{661B4EBB1104D74D}" {
+     Weight 1
+     SizeSetupStrategy Manual
+     ItemDimensions 35 36 36
+     ItemVolume 80000
+     DimensionScaler 1
+     RestingAdditiveRotationLS 0 0 0
+     RestingAdditiveOffsetLS 0 0 0
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{661B4EBB1104D748}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{661B4EBB1104D749}" {
+       AnimGraph "{44A1E0130301E5F5}Assets/Items/Equipment/workspaces/MedicalKit_supplies.agr"
+       AnimInstance "{A9CBB5C81F08B71B}Assets/Items/Equipment/workspaces/MedicalKit_supplies.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 180 90 90
+     HandAdditiveTranslation 0 0.07 0
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{661B4EBB1104D747}" {
+      CameraPreset Top
+      CameraOrbitAngles 0 0 270
+      CameraDistanceToItem 0.45
+      FOV 60
+      AspectRatio 1
+     }
+     CharacterModifierAttributes "{661B4EBB1104D742}" {
+     }
+    }
+    CommonItemType "NONE"
+    m_Size SLOT_2x2
+    m_eQuickSlotSize SLOT_1x1
+    m_SlotType SLOT_GADGETS_STORAGE
+    m_bStackable 0
+   }
+   UseCapacityCoefficient 0
+   MaxCumulativeVolume 500
+   MaxItemSize 2500 2500 2500
+   m_fMaxWeight 20
+  }
+  ActionsManagerComponent "{661B4EBB1104D77F}" {
+   ActionContexts {
+    UserActionContext "{661B4EBB1104D77D}" {
+     ContextName "default"
+     Position PointInfo "{661B4EBB1104D77B}" {
+     }
+     Radius 0.2
+     Height 0
+    }
+   }
+   additionalActions {
+    SCR_PickUpItemAction "{661B4EBB1104D76E}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{661B4EBB1104D76D}" {
+      Name "#AR-Inventory_PickUp"
+     }
+     "Sort Priority" -100
+    }
+    SCR_OpenStorageAction "{661B4EBB1104D768}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{661B4EBB1104D769}" {
+      Name "#AR-Inventory_OpenStorage"
+     }
+    }
+   }
+  }
+  RplComponent "{661B4EBB1104D767}" {
+  }
+  Hierarchy "{661B4EBB1104D762}" {
+  }
+ }
+ coords 0 0 0
+}

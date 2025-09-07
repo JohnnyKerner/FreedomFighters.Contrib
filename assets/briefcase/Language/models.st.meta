@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{62858DD539120033}Language/models.st"
+ Configurations {
+  StringTableResourceClass PC {
+  }
+  StringTableResourceClass XBOX_ONE : PC {
+  }
+  StringTableResourceClass XBOX_SERIES : PC {
+  }
+  StringTableResourceClass PS4 : PC {
+  }
+  StringTableResourceClass PS5 : PC {
+  }
+  StringTableResourceClass HEADLESS : PC {
+  }
+ }
+}

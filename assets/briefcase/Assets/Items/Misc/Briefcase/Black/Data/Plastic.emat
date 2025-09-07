@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.306 0.306 0.306 1
+ BCRMap "{A029A9A021EB3347}Assets/Items/Misc/Briefcase/Black/RGB Alpha_1.edds"
+ NMOMap "{FB112E49356D7246}Assets/Items/Misc/Briefcase/Black/RGB Alpha.edds"
+}

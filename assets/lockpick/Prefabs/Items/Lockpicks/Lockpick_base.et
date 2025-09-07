@@ -1,0 +1,110 @@
+GenericEntity {
+ ID "661AF0BE7D487E85"
+ components {
+  EPF_PersistenceComponent "{661AF0BF6677F305}" {
+  }
+  InventoryItemComponent "{661AF0BE8A03CCA0}" {
+   Attributes SCR_ItemAttributeCollection "{661AF0BE8DA54B6C}" {
+    ItemDisplayName SCR_InventoryUIInfo "{5222EB4D07D865FA}" {
+     Name "#TSE-Item_Lockpick"
+     Description "#TSE-Item_Lockpick_Description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 0.01
+     SizeSetupStrategy Manual
+     ItemDimensions 5 5 5
+     ItemVolume 10
+     DimensionScaler 0.08
+     RestingUP Forward
+     RestingAdditiveRotationLS 0 0 0
+     RestingAdditiveOffsetLS 0 0 0
+     ActivePhysicalSimulation None
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{5DFEB227BF972143}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{5DFEB227CEA750A4}" {
+       AnimGraph "{CEC539E559BB8BA6}Assets/Items/Equipment/workspaces/RepairKit.agr"
+       AnimInstance "{23AF6C3E45B2D948}Assets/Items/Equipment/workspaces/RepairKit.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 0 270 0
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{5E0282EAD947229C}" {
+      CameraDistanceToItem 0
+      ItemRenderRotation 85 0 0
+      FOV 45
+      AspectRatio 1
+     }
+     CharacterModifierAttributes "{5E3A83E5678E07AD}" {
+     }
+    }
+    CommonItemType "NONE"
+    m_Size SLOT_1x1
+    m_SlotType SLOT_GADGETS_STORAGE
+    m_bRefundable 0
+   }
+  }
+  MeshObject "{661AF0BF4B81566A}" {
+   Object "{16CECB1289EBF0D0}Assets/Items/Lockpicks/Lockpick.xob"
+   InheritVisibility 1
+  }
+  RigidBody "{661AF0BED708C7A3}" {
+   Static 1
+  }
+  SCR_SoundDataComponent "{661AF0BEA44A454A}" {
+   m_aAudioSourceConfiguration {
+    SCR_AudioSourceConfiguration "{661AF0BEE2B5BA1C}" {
+     m_sSoundProject "{7863D1DFA2EFE985}Sounds/Items/_SharedData/PickUp/Items_PickUp_RepairKit.acp"
+     m_sSoundEventName "SOUND_PICK_UP"
+    }
+    SCR_AudioSourceConfiguration "{661AF0BEE27DE663}" {
+     m_sSoundProject "{7863D1DFA2EFE985}Sounds/Items/_SharedData/PickUp/Items_PickUp_RepairKit.acp"
+     m_sSoundEventName "SOUND_EQUIP"
+     m_eFlags 0
+    }
+    SCR_AudioSourceConfiguration "{661AF0BEE2087B52}" {
+     m_sSoundProject "{7FD0A9094C3D8B91}Sounds/Items/_SharedData/Drop/Items_Drop_RepairKit.acp"
+     m_sSoundEventName "SOUND_DROP"
+    }
+   }
+  }
+  SCR_SupportStationGadgetComponent "{661AF0BEDBF9A15B}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{661AF0BEAF966EEE}" {
+   ActionContexts {
+    UserActionContext "{661AF0BE0C768D3F}" {
+     ContextName "default"
+     Position PointInfo "{508AC2ABEAC4A0F5}" {
+     }
+     Radius 0.2
+     Height 0
+    }
+   }
+   additionalActions {
+    SCR_PickUpItemAction "{661AF0BE3954A306}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{51EC842E413D3E1D}" {
+      Name "#AR-Inventory_PickUp"
+     }
+    }
+    SCR_EquipItemAction "{661AF0BE318751A4}" {
+     ParentContextList {
+      "default"
+     }
+     ActionTitle "Equip Item"
+     "Sort Priority" 2
+    }
+   }
+  }
+  RplComponent "{661AF0BEB424B6FF}" {
+  }
+  Hierarchy "{661AF0BEBF9423FC}" {
+  }
+ }
+ coords 1 1.073 1
+}

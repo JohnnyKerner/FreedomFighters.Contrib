@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B5C8CA37515A8DFA}Assets/Items/Misc/Briefcase/Black/Data/Plastic.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

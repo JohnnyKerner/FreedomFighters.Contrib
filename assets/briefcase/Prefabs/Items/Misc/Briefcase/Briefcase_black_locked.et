@@ -1,0 +1,128 @@
+GenericEntity {
+ ID "661B4571EC4B4447"
+ components {
+  EPF_PersistenceComponent "{661B4571EC4B4443}" {
+  }
+  FactionAffiliationComponent "{661B4571EC4B447B}" {
+   "faction affiliation" "CIV"
+  }
+  InventoryItemComponent "{661B4571EC4B4476}" {
+   Enabled 0
+   Attributes SCR_ItemAttributeCollection "{661B4571EC4B4474}" {
+    ItemDisplayName SCR_InventoryUIInfo "{661B4571EC4B4472}" {
+     Name "Briefcase"
+     Description "Briefcase_description"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{661B4571EC4B4471}" {
+     Weight 1
+     SizeSetupStrategy Manual
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{661B4571EC4B446F}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{661B4571EC4B446D}" {
+       AnimGraph "{44A1E0130301E5F5}Assets/Items/Equipment/workspaces/MedicalKit_supplies.agr"
+       AnimInstance "{A9CBB5C81F08B71B}Assets/Items/Equipment/workspaces/MedicalKit_supplies.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 180 90 90
+     HandAdditiveTranslation 0 0.07 0
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{661B4571EC4B4465}" {
+      CameraPreset Top
+      CameraOrbitAngles 0 0 270
+      CameraDistanceToItem 0.45
+     }
+     CharacterModifierAttributes "{661B4571EC4B4463}" {
+     }
+    }
+    m_Size SLOT_2x2
+    m_eQuickSlotSize SLOT_1x1
+    m_SlotType SLOT_GADGETS_STORAGE
+    m_bStackable 0
+   }
+  }
+  MeshObject "{661B4571EC4B449E}" {
+   Object "{54473F87BA462D6E}Assets/Items/Misc/Briefcase/Black/Briefcase_black.xob"
+  }
+  RigidBody "{661B4571EC4B449C}" {
+   ModelGeometry 1
+  }
+  SCR_SupportStationGadgetComponent "{661B4571EC4B449B}" {
+   m_eAnimVariable ADRIANOV
+  }
+  SCR_UniversalInventoryStorageComponent "{661B4571EC4B4495}" {
+   Attributes SCR_ItemAttributeCollection "{661B4571EC4B4493}" {
+    ItemDisplayName SCR_InventoryUIInfo "{661B4571EC4B4490}" {
+     Name "#TSE-Briefcase_black_locked"
+     Description "#TSE-Briefcase_description_locked"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{661B4571EC4B448E}" {
+     Weight 1
+     SizeSetupStrategy Manual
+     ItemDimensions 35 36 36
+     ItemVolume 80000
+     DimensionScaler 1
+     RestingAdditiveRotationLS 0 0 0
+     RestingAdditiveOffsetLS 0 0 0
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{661B4571EC4B448C}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{661B4571EC4B448D}" {
+       AnimGraph "{44A1E0130301E5F5}Assets/Items/Equipment/workspaces/MedicalKit_supplies.agr"
+       AnimInstance "{A9CBB5C81F08B71B}Assets/Items/Equipment/workspaces/MedicalKit_supplies.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 180 90 90
+     HandAdditiveTranslation 0 0.07 0
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{661B4571EC4B448B}" {
+      CameraPreset Top
+      CameraOrbitAngles 0 0 270
+      CameraDistanceToItem 0.45
+      FOV 60
+      AspectRatio 1
+     }
+     CharacterModifierAttributes "{661B4571EC4B4487}" {
+     }
+    }
+    CommonItemType "NONE"
+    m_Size SLOT_2x2
+    m_eQuickSlotSize SLOT_1x1
+    m_SlotType SLOT_GADGETS_STORAGE
+    m_bStackable 0
+   }
+   StoragePurpose 0
+  }
+  ActionsManagerComponent "{661B4571EC4B4481}" {
+   ActionContexts {
+    UserActionContext "{661B4571EC4B44BF}" {
+     ContextName "default"
+     Position PointInfo "{661B4571EC4B44BD}" {
+     }
+     Radius 0.2
+     Height 0
+    }
+   }
+   additionalActions {
+    SCR_PickUpItemAction "{661B4571EC4B44B8}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{661B4571EC4B44B9}" {
+      Name "#AR-Inventory_PickUp"
+     }
+     "Sort Priority" -100
+    }
+   }
+  }
+  RplComponent "{661B4571EC4B44B4}" {
+  }
+  Hierarchy "{661B4571EC4B44B5}" {
+  }
+ }
+ coords 0 0 0
+}

@@ -1,0 +1,63 @@
+MetaFileClass {
+ Name "{54473F87BA462D6E}Assets/Items/Misc/Briefcase/Black/Briefcase_black.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{661B4D928E92027C}" {
+     SourceMaterial "Plastic"
+     AssignedMaterial "{B5C8CA37515A8DFA}Assets/Items/Misc/Briefcase/Black/Data/Plastic.emat"
+    }
+    MaterialAssignClass "{661B4D928E920275}" {
+     SourceMaterial "metallic"
+     AssignedMaterial "{10E6C4EF6C3AB7D8}Assets/Items/Misc/Briefcase/Black/Data/metallic.emat"
+    }
+   }
+   MeshParams {
+    MeshParam Plastic_low {
+    }
+    MeshParam metallic_low {
+    }
+   }
+   GeometryParams {
+    GeometryParam UBX_case {
+     LayerPreset "Prop"
+     SurfaceProperties {
+      "{536BF67B2052B869}material/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_firegeo {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5EAA7FB0A83F90CF}Common/Materials/Game/plastic.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{661B4D928E98258E}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{661B4D928E982402}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{661B4D928E98245A}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{661B4D928E98247A}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{661B4D928E98249A}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{661B4D928E9824BA}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}
