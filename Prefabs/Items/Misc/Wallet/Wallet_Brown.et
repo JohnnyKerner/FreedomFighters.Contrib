@@ -1,0 +1,92 @@
+GenericEntity {
+ ID "6628E533627E1CE6"
+ components {
+  EPF_PersistenceComponent "{6628E533627E1CE3}" {
+  }
+  InventoryItemComponent "{6628E533627E1F14}" {
+   Attributes SCR_ItemAttributeCollection "{6628E533627E1F13}" {
+    ItemDisplayName SCR_InventoryUIInfo "{6628E533627E1F0E}" {
+     Name "Wallet"
+     Description "Wallet"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{6628E533627E1F0D}" {
+     Weight 0.1
+     SizeSetupStrategy Manual
+     ItemDimensions 5 5 5
+     ItemVolume 100
+     DimensionScaler 1
+     RestingAdditiveRotationLS 0 0 0
+     RestingAdditiveOffsetLS 0 0 0
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{6628E533627E1F07}" {
+     AnimationInstance "{4FCBEA45CAEBC9C0}anims/workspaces/player/player_main_1h.asi"
+     AnimationIKPose "{3E5C93E85F05C6B5}Assets/Weapons/Grenades/RGD5/anims/anm/p_rgd5_ik.anm"
+     AnimationAttachments {
+      AnimationAttachmentInfo "{6628E533627E1F02}" {
+       AnimGraph "{1262B0C648B36FB7}Assets/Items/Medicine/Workspaces/Bandage_US.agr"
+       AnimInstance "{CA8E77D43958646F}Assets/Items/Medicine/Workspaces/Bandage_US_player.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 0 90 75
+     HandAdditiveTranslation -0.03 0 0.02
+    }
+    CustomAttributes {
+     ItemActionAnimAttributes "{6628E533627E1F38}" {
+     }
+     CharacterModifierAttributes "{6628E533627E1F36}" {
+     }
+     SCR_ItemOfInterestAttribute "{6628E533627E1F34}" {
+     }
+     SCR_SelectionMenuPreviewAttributes "{6628E533627E1F35}" {
+     }
+     SCR_AlternativeModel "{6628E533627E1F33}" {
+     }
+     PreviewRenderAttributes "{6628E533627E1F2C}" {
+      CameraPreset Right
+      CameraDistanceToItem 0.44
+      CameraOffset 0 0.02 0
+      FOV 10
+      AspectRatio 1
+     }
+    }
+    CommonItemType "NONE"
+    m_Size SLOT_1x1
+    m_SlotType SLOT_LOADOUT_STORAGE
+   }
+  }
+  MeshObject "{6628E533627E1F20}" {
+   Object "{624F63206A98AA27}Assets/Items/Misc/Wallet/Brown/Wallet_Brown.xob"
+  }
+  RigidBody "{6628E533627E1F5E}" {
+  }
+  SCR_ConsumableItemComponent "{6628E533627E1F5D}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{6628E533627E1F5B}" {
+   ActionContexts {
+    UserActionContext "{6628E533627E1F56}" {
+     ContextName "default"
+     Position PointInfo "{6628E533627E1F54}" {
+     }
+    }
+   }
+   additionalActions {
+    SCR_PickUpItemAction "{6628E533627E1F50}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{6628E533627E1F51}" {
+      Name "#AR-Inventory_PickUp"
+     }
+    }
+   }
+  }
+  RplComponent "{6628E533627E1F4D}" {
+  }
+  Hierarchy "{6628E533627E1F46}" {
+  }
+ }
+ coords 1 1 0.999
+ scale 0.7
+}

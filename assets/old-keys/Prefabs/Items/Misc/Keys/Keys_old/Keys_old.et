@@ -1,0 +1,80 @@
+GenericEntity {
+ ID "6630A8D9A824A923"
+ components {
+  EPF_PersistenceComponent "{6630A8D9169F43F7}" {
+  }
+  InventoryItemComponent "{6630A8D90CC53C73}" {
+   Attributes SCR_ItemAttributeCollection "{6630A8D951877B67}" {
+    ItemDisplayName SCR_InventoryUIInfo "{6630A8D957F8A058}" {
+     Name "Old Keys"
+     Description "Some old keys for really old locks."
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{6630A8D97D2B6356}" {
+     Weight 0.2
+     SizeSetupStrategy Manual
+     ItemDimensions 5 5 5
+     ItemVolume 100
+     DimensionScaler 1
+     RestingUP Forward
+     RestingAdditiveRotationLS 0 90 0
+     RestingAdditiveOffsetLS 0 -0.6 0
+     ActivePhysicalSimulation Collision
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{6630A8D972AA3712}" {
+     AnimationAttachments {
+      AnimationAttachmentInfo "{5DFEB227CEA750A4}" {
+       AnimGraph "{CEC539E559BB8BA6}Assets/Items/Equipment/workspaces/RepairKit.agr"
+       AnimInstance "{23AF6C3E45B2D948}Assets/Items/Equipment/workspaces/RepairKit.asi"
+       BindingName "Gadget"
+      }
+     }
+     HandAdditiveRotation 0 115 270
+     HandAdditiveTranslation 0 0 0.07
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{6630A8D96EF75C20}" {
+      CameraDistanceToItem 0.38
+      ItemRenderRotation 0 90 0
+      FOV 60
+      AspectRatio 1
+     }
+    }
+    m_Size SLOT_1x1
+    m_bStackable 0
+   }
+  }
+  MeshObject "{6630A8D9867A3C38}" {
+   Object "{27AE99C2710BE148}Assets/Items/Misc/Keys/Keys_old/Keys_old.xob"
+  }
+  RigidBody "{6630A8D906BA322B}" {
+  }
+  SCR_SupportStationGadgetComponent "{6630A8D922984D5A}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{6630A8D959372A6B}" {
+   ActionContexts {
+    UserActionContext "{6630A8D89213E363}" {
+     ContextName "default"
+     Position PointInfo "{6630A8D889FFD1DF}" {
+     }
+    }
+   }
+   additionalActions {
+    SCR_PickUpItemAction "{6630A8D8805B538E}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{6630A8D8B9A5F8E7}" {
+      Name "#AR-Inventory_PickUp"
+     }
+    }
+   }
+  }
+  RplComponent "{6630A8D9398FE59D}" {
+  }
+  Hierarchy "{6630A8D931312E91}" {
+  }
+ }
+ coords 0 0 0
+ angleX 0.433
+}
