@@ -700,7 +700,7 @@ JWK-Notification-HideoutDisbanded,The resistance hideout in %1 has been shut dow
 JWK-Notification-HideoutEstablished,The resistance has established a new hideout in %1.,Опір заснував новий схрон в %1.,
 JWK-Notification-HideoutHqDanger,The resistance HQ near %1 has been shut down due to imminent danger.,Штаб опору поблизу %1 було закрито через неминучу небезпеку.,
 JWK-Notification-HideoutHqEstablished,The resistance has established a new HQ hideout.,Опір заснував новий штабний схрон.,
-JWK-Notification-HideoutHqVipKilled,The %1 HQ near %2 is shut down due to operator death.,Штаб %1 поблизу %2 закрито через смерть оператора.,
+JWK-Notification-HideoutHqVipKilled,The %1 HQ near %2 is shut down due to operator death.,Штаб %1 поблизу %2 закрито через смерть керівника.,
 JWK-Notification-HideoutTooHot,The resistance hideout in %1 is inoperable due to imminent danger.,Схрон опору в %1 не діє через небезпеку.,
 JWK-Notification-HideoutVipKilled,The %1 hideout in %2 is shut down due to operator death.,Схрон %1 в %2 закритий через смерть керівника.,
 JWK-Notification-JobResigned,Job has been cancelled: %1,Завдання скасовано: %1,
