@@ -1,0 +1,61 @@
+GenericEntity {
+ ID "6666952732DE3A85"
+ components {
+  EPF_PersistenceComponent "{6666952732DE3A82}" {
+  }
+  InventoryItemComponent "{6666952732DE3A94}" {
+   Attributes SCR_ItemAttributeCollection "{6666952732DE3A97}" {
+    ItemDisplayName SCR_InventoryUIInfo "{6666952732DE3A91}" {
+     Name "Keys"
+     Description "Keys Variant A"
+    }
+    ItemPhysAttributes ItemPhysicalAttributes "{6666952732DE3AAC}" {
+     Weight 0.2
+     SizeSetupStrategy Manual
+     ItemDimensions 5 5 5
+     ItemVolume 100
+     DimensionScaler 1
+     RestingAdditiveRotationLS 0 0 0
+     RestingAdditiveOffsetLS 0 0 0
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{6666952732DE3AA8}" {
+    }
+    CustomAttributes {
+     SCR_CharacterInventoryPreviewAttributes "{6666952732DE3AAA}" {
+     }
+    }
+    m_Size SLOT_1x1
+   }
+  }
+  MeshObject "{6666952732DE3AA6}" {
+   Object "{B9DF6C586E3486ED}Assets/Items/Misc/Keys/Keys_Regular/Keys_Regular_B/Keys_reg_2.xob"
+  }
+  SCR_GadgetComponent "{6666952732DE3AA1}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{6666952732DE3AA2}" {
+   ActionContexts {
+    UserActionContext "{6666952732DE3ABC}" {
+     ContextName "default"
+     Position PointInfo "{6666952732DE3ABE}" {
+     }
+    }
+   }
+   additionalActions {
+    PickupAction "{6666952732DE3ABB}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{6666952732DE3AB3}" {
+      Name "#AR-Inventory_PickUp"
+     }
+    }
+   }
+  }
+  RplComponent "{6666952732DE3B4D}" {
+  }
+  Hierarchy "{6666952732DE3B4F}" {
+  }
+ }
+ coords 1.915 -0.054 3.149
+}
