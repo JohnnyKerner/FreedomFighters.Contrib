@@ -13,12 +13,12 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **15th September 2025**.
+Last update of the source table: **5th September 2025**.
 
 | Language | In-game            | Completion  | Comments                   | Contributors           |
 | -------- | ------------------ | ----------- | -------------------------- | ---------------------- |
-| cz       | :x:                | Incomplete. | Partially auto-translated. | -                      |
-| de       | :x:                | Incomplete. | Partially auto-translated. | -                      |
+| cz       | :white_check_mark: | Incomplete. | -                          | ataribaby              |
+| de       | :white_check_mark: | Incomplete. | -                          | lampiooo               |
 | es       | :white_check_mark: | Incomplete. | -                          | frantik03              |
 | fr       | :white_check_mark: | Incomplete. | -                          | et_s, benjibossk       |
 | it       | :x:                | Incomplete. | Partially auto-translated. | -                      |
@@ -27,7 +27,7 @@ Last update of the source table: **15th September 2025**.
 | pl       | :x:                | Incomplete. | Partially auto-translated. | -                      |
 | pt       | :white_check_mark: | Incomplete. | -                          | mad_junior1704         |
 | ru       | :white_check_mark: | Incomplete. | -                          | thesnakyeyes           |
-| uk       | :white_check_mark: | Incomplete  | -                          | diraven                |
+| uk       | :white_check_mark: | None.       | -                          | diraven                |
 | zh_cn    | :white_check_mark: | Incomplete. | -                          | fantastic_possum_18059 |
 
 ## Integrations status
