@@ -13,7 +13,7 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **15th September 2025**.
+Last update of the source table: **30th September 2025**.
 
 | Language | In-game            | Completion  | Comments                   | Contributors                  |
 | -------- | ------------------ | ----------- | -------------------------- | ----------------------------- |
