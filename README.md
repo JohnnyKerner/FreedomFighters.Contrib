@@ -15,20 +15,20 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 Last update of the source table: **15th September 2025**.
 
-| Language | In-game            | Completion  | Comments                   | Contributors           |
-| -------- | ------------------ | ----------- | -------------------------- | ---------------------- |
-| cz       | :white_check_mark: | Incomplete. | -                          | ataribaby              |
-| de       | :white_check_mark: | Incomplete. | -                          | lampiooo               |
-| es       | :white_check_mark: | Incomplete. | -                          | frantik03              |
-| fr       | :white_check_mark: | Incomplete. | -                          | et_s, benjibossk       |
-| it       | :x:                | Incomplete. | Partially auto-translated. | -                      |
-| ja       | :x:                | Incomplete. | Partially auto-translated. | -                      |
-| ko       | :x:                | Incomplete. | Partially auto-translated. | -                      |
-| pl       | :x:                | Incomplete. | Partially auto-translated. | -                      |
-| pt       | :white_check_mark: | Incomplete. | -                          | mad_junior1704         |
-| ru       | :white_check_mark: | Incomplete. | -                          | thesnakyeyes           |
-| uk       | :white_check_mark: | Incomplete. | -                          | diraven                |
-| zh_cn    | :white_check_mark: | Incomplete. | -                          | fantastic_possum_18059 |
+| Language | In-game            | Completion  | Comments                   | Contributors                  |
+| -------- | ------------------ | ----------- | -------------------------- | ----------------------------- |
+| cz       | :white_check_mark: | Incomplete. | -                          | ataribaby                     |
+| de       | :white_check_mark: | Incomplete. | -                          | lampiooo                      |
+| es       | :white_check_mark: | Incomplete. | -                          | frantik03                     |
+| fr       | :white_check_mark: | Incomplete. | -                          | et_s, benjibossk, marcus.3954 |
+| it       | :x:                | Incomplete. | Partially auto-translated. | -                             |
+| ja       | :x:                | Incomplete. | Partially auto-translated. | -                             |
+| ko       | :x:                | Incomplete. | Partially auto-translated. | -                             |
+| pl       | :x:                | Incomplete. | Partially auto-translated. | -                             |
+| pt       | :white_check_mark: | Incomplete. | -                          | mad_junior1704                |
+| ru       | :white_check_mark: | Incomplete. | -                          | thesnakyeyes                  |
+| uk       | :white_check_mark: | Incomplete. | -                          | diraven                       |
+| zh_cn    | :white_check_mark: | Incomplete. | -                          | fantastic_possum_18059        |
 
 ## Integrations status
 
@@ -49,7 +49,7 @@ Last update of the source table: **15th September 2025**.
 | [5D1880C4AD410C14](https://reforger.armaplatform.com/workshop/5D1880C4AD410C14) | M1 Abrams             | TheSpaceStrider | 2.1.14      | -     | -            |
 | [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV             | TheSpaceStrider | 1.1.3       | -     | -            |
 | [5E5C154FEE1094BB](https://reforger.armaplatform.com/workshop/5E5C154FEE1094BB) | M113 APC              | TheSpaceStrider | 1.1.3       | -     | -            |
-| [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 1.2.17      | -     | -            |
+| [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 1.2.17      | -     | diraven      |
 | [629B2BA37EFFD577](https://reforger.armaplatform.com/workshop/629B2BA37EFFD577) | WCS_Armaments         | Cyborgmatt      | 4.0.1       | -     | -            |
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V            | Tonimontana     | 4.0.1       | -     | -            |
 | [617AC5E57EF1D9E3](https://reforger.armaplatform.com/workshop/617AC5E57EF1D9E3) | WZ Vehicles           | TandemHEAT      | 1.0.120     | -     | -            |
