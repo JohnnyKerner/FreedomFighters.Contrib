@@ -546,7 +546,7 @@ JWK-Hint-CantDoDisabledRadio,You cannot do that with a disabled radio.,Il n'est 
 JWK-Hint-CantDoEnemiesNearby,You cannot do this with enemies nearby.,Vous ne pouvez pas le faire si des ennemis se trouvent à proximité.,
 JWK-Hint-CantDoInIllegalZone,You cannot do this in illegal zone.,Vous ne pouvez pas le faire dans une zone illégale.,
 JWK-Hint-CantDoInMovingVehicle,Your vehicle must not be moving to do this.,"Pour ce faire, votre véhicule ne doit pas être en mouvement.",
-JWK-Hint-CantDoInVehicle,You cannot do that while in vehicle.,Vous ne pouvez pas le faire lorsque vous êtes dans le véhicule.,
+JWK-Hint-CantDoInVehicle,You cannot do that while in vehicle.,Vous ne pouvez pas faire ça lorsque vous êtes dans un véhicule.,
 JWK-Hint-CantDoNotEnoughMoney,You do not have enough money.,Vous n'avez pas assez d'argent.,
 JWK-Hint-CantDoNotEnoughResources,You do not have required resources.,Vous ne disposez pas des fournitures nécessaires.,
 JWK-Hint-CantDoUndercover,You cannot do that while undercover.,Vous ne pouvez pas faire cela lorsque vous êtes sous couverture.,
@@ -1035,4 +1035,5 @@ JWK-UI-Cancel,Cancel,Annuler,
 JWK-UI-Close,Close,Fermer,
 JWK-UI-Confirm,Confirm,Confirmer,
 JWK-UI-LocationPlaceholder,unknown location,Lieu inconnu,
+
 
