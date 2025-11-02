@@ -42,6 +42,8 @@ Last update of the source table: **2nd November 2025**.
 | [62A711001B8FDEEA](https://reforger.armaplatform.com/workshop/62A711001B8FDEEA) | Big Chungus Rifles    | Big Chungus     | 1.0.32      | -     | -            |
 | [620E584B1D2C96A4](https://reforger.armaplatform.com/workshop/620E584B1D2C96A4) | Big Chungus Shotguns  | Big Chungus     | 1.0.34      | -     | -            |
 | [60E6F54E174C53C5](https://reforger.armaplatform.com/workshop/60E6F54E174C53C5) | Big Chungus SMGs      | Big Chungus     | 1.0.45      | -     | -            |
+| [647944445C577430](https://reforger.armaplatform.com/workshop/647944445C577430) | BM21                  | Gantelya        | 1.0.9       | -     | daveod06     |
+| [65171C2883CB81B4](https://reforger.armaplatform.com/workshop/65171C2883CB81B4) | BTR152                | Cole_reforger   | 1.0.15      | -     | daveod06     |
 | [623E0EA4ED5F44D5](https://reforger.armaplatform.com/workshop/623E0EA4ED5F44D5) | FAL                   | TioPatinhas600  | 1.0.13      | -     | -            |
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8              | Tiny Cube       | 1.0.1       | -     | -            |
 | [64DC1D98BF48F411](https://reforger.armaplatform.com/workshop/64DC1D98BF48F411) | Metabolism            | Hydr0_5kunk     | 0.0.30      | -     | -            |
@@ -54,3 +56,4 @@ Last update of the source table: **2nd November 2025**.
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V            | Tonimontana     | 4.0.1       | -     | -            |
 | [617AC5E57EF1D9E3](https://reforger.armaplatform.com/workshop/617AC5E57EF1D9E3) | WZ Vehicles           | TandemHEAT      | 1.0.120     | -     | -            |
 | [6052A9DD45564825](https://reforger.armaplatform.com/workshop/6052A9DD45564825) | You Can Sit           | V-lst           | 1.0.8       | -     | -            |
+| [5C9AD9EF76F6B5EA](https://reforger.armaplatform.com/workshop/5C9AD9EF76F6B5EA) | ZU23                  | ceo_of_bacon    | 1.2.15      | -     | daveod06     |
