@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{9E6FFDEEEC62DFA2}Configs/Addons/BigChungus/BigChungusMotorbike.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
