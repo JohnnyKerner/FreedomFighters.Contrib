@@ -13,22 +13,22 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **2nd November 2025**.
+Last update of the source table: **4th November 2025**.
 
 | Language | In-game            | Completion | Comments | Contributors                  |
 | -------- | ------------------ | ---------- | -------- | ----------------------------- |
-| cz       | :white_check_mark: | 95.2%      | -        | ataribaby                     |
-| de       | :white_check_mark: | 57.55%     | -        | lampiooo                      |
-| es       | :white_check_mark: | 80.64%     | -        | frantik03                     |
-| fr       | :white_check_mark: | 92.45%     | -        | et_s, benjibossk, marcus.3954 |
+| cz       | :white_check_mark: | 92.24%     | -        | ataribaby                     |
+| de       | :white_check_mark: | 85.86%     | -        | lampiooo, sirlukevonosna95    |
+| es       | :white_check_mark: | 78.1%      | -        | frantik03                     |
+| fr       | :white_check_mark: | 89.57%     | -        | et_s, benjibossk, marcus.3954 |
 | it       | :x:                | 0%         | -        | -                             |
 | ja       | :x:                | 0%         | -        | -                             |
 | ko       | :x:                | 0%         | -        | -                             |
-| pl       | :x:                | 0%         | -        | -                             |
-| pt       | :white_check_mark: | 73.27%     | -        | mad_junior1704                |
-| ru       | :white_check_mark: | 80.02%     | -        | thesnakyeyes                  |
-| uk       | :white_check_mark: | 85.44%     | -        | diraven                       |
-| zh_cn    | :white_check_mark: | 80.02%     | -        | fantastic_possum_18059        |
+| pl       | :white_check_mark: | 91.12%     | -        | kartonik5209, werek_90145     |
+| pt       | :white_check_mark: | 70.95%     | -        | mad_junior1704                |
+| ru       | :white_check_mark: | 77.5%      | -        | thesnakyeyes                  |
+| uk       | :white_check_mark: | 82.76%     | -        | diraven                       |
+| zh_cn    | :white_check_mark: | 77.5%      | -        | fantastic_possum_18059        |
 
 ## Integrations status
 
