@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.305 0.305 0.305 1
+ BCRMap "{39517F64A785C494}2/materials/BCR Red_2.edds"
+ NMOMap "{9859514C46987ECD}2/materials/NMO Red_2.edds"
+}

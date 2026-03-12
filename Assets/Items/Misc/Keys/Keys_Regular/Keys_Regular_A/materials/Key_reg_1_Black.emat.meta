@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{180BC864C657DBB7}Assets/Items/Misc/Keys/Keys_Regular/Keys_Regular_A/materials/Key_reg_1_Black.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,5 @@
+MatPBRBasic {
+ Color 0.231 0.231 0.231 1
+ BCRMap "{383A1C0D59579BA6}1/RGB Alpha_1.edds"
+ NMOMap "{F4A051F72C331448}1/RGB Alpha.edds"
+}
