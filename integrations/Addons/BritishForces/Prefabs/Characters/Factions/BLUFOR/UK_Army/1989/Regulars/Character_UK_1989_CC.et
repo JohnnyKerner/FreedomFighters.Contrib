@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{21B95ED97AE24289}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Crew.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_CharacterFactionAffiliationComponent "{610725BE89F30BF3}" {
+   "faction affiliation" "UK"
+  }
+ }
+}

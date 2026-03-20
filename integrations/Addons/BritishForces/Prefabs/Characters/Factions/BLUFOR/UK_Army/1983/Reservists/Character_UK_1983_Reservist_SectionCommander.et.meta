@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{F035759076B5818A}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/Reservists/Character_UK_1983_Reservist_SectionCommander.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

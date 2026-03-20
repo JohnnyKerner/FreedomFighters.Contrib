@@ -1,0 +1,4 @@
+SCR_AIGroup : "{D1850DAD5D572363}Prefabs/Groups/BLUFOR/British Forces/1983/Group_UK_1983_SpecialForces_Base.et" {
+ ID "0000000000000001"
+ m_faction "UK"
+}

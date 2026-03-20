@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{376676E968BA3518}Prefabs/Characters/Factions/BLUFOR/UK_Army/Character_UK_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_CharacterFactionAffiliationComponent "{610725BE89F30BF3}" {
+   "faction affiliation" "UK_83"
+  }
+ }
+}

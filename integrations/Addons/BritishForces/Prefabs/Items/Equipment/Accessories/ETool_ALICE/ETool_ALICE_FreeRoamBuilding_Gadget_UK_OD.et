@@ -1,0 +1,9 @@
+GenericEntity : "{0619993AE6CDBF85}Prefabs/Items/Equipment/Accessories/ETool_ALICE/ETool_ALICE.et" {
+ ID "0000000000000001"
+ components {
+  JWK_ConstructionToolItemComponent "{66054E115A63A95B}" {
+  }
+  JWK_ConstructionToolItemComponent "{66054E115D620648}" {
+  }
+ }
+}
