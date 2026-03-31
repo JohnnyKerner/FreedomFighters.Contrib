@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{485E783DA300EB60}Configs/Addons/BigChungus/VietnamWeaponsPack.conf"
+ Name "{485E783DA300EB60}Configs/Addons/VietnamPack_YobananaboY.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
