@@ -65,3 +65,4 @@ Last update of the source table: **25th February 2026**.
 | [64716A1F357EE8AD](https://reforger.armaplatform.com/workshop/64716A1F357EE8AD) | Yokais modern drip pack | Yokia 3-5-5   | 1.0.1       | -     | daveod06     |
 | [6052A9DD45564825](https://reforger.armaplatform.com/workshop/6052A9DD45564825) | You Can Sit           | V-lst           | 1.0.8       | -     | -            |
 | [5C9AD9EF76F6B5EA](https://reforger.armaplatform.com/workshop/5C9AD9EF76F6B5EA) | ZU23                  | ceo_of_bacon    | 1.2.15      | -     | daveod06     |
+| [66B523AD189F3233](https://reforger.armaplatform.com/workshop/66B523AD189F3233) | Bandit Gear           | microplastic9000 | 0.16.1     | -     | 13pm Vanya   |
