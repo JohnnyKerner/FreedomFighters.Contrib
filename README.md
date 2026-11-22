@@ -23,7 +23,7 @@ Last update of the source table: **22nd November 2026**.
 | fr       | :white_check_mark: | 73%        | -        | et_s, benjibossk, marcus.3954 |
 | it       | :x:                | 45%        | -        | -                             |
 | ja       | :white_check_mark: | 84%        | -        | howyi                         |
-| ko       | :x:                | 0%         | -        | -                             |
+| ko       | :white_check_mark: | 84%        | -        | TY554                         |
 | pl       | :white_check_mark: | 88%        | -        | kartonik5209, werek_90145     |
 | pt       | :white_check_mark: | 73%        | -        | mad_junior1704                |
 | ru       | :white_check_mark: | 73%        | -        | thesnakyeyes                  |
