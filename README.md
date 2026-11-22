@@ -60,6 +60,7 @@ Last update of the source table: **1st November 2026**.
 | [62F2A5E273F2C481](https://reforger.armaplatform.com/workshop/62F2A5E273F2C481) | Tracksuit             | vill_chip       | 1.0.2       | -     | daveod06     |
 | [629B2BA37EFFD577](https://reforger.armaplatform.com/workshop/629B2BA37EFFD577) | WCS_Armaments         | Cyborgmatt      | 4.0.1       | -     | -            |
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V            | Tonimontana     | 4.0.1       | -     | -            |
+| [62F364B35E9B51B0](https://reforger.armaplatform.com/workshop/62F364B35E9B51B0) | Wirecutters2          | dax5150         | 1.1.12      | -     | -            |
 | [617AC5E57EF1D9E3](https://reforger.armaplatform.com/workshop/617AC5E57EF1D9E3) | WZ Vehicles           | TandemHEAT      | 1.0.120     | -     | -            |
 | [66BB768AC32D1A05](https://reforger.armaplatform.com/workshop/66BB768AC32D1A05) | YobananaboY Vietnam Pack | YobananaboY  | 1.0.13      | -     | daveod06     |
 | [64716A1F357EE8AD](https://reforger.armaplatform.com/workshop/64716A1F357EE8AD) | Yokais modern drip pack | Yokia 3-5-5   | 1.0.1       | -     | daveod06     |
