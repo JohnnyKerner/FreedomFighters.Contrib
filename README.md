@@ -35,9 +35,9 @@ Last update of the source table: **22nd November 2026**.
 | Mod ID                                                                          | Label                 | Author          | Mod version | Notes | Contributors |
 | ------------------------------------------------------------------------------- | --------------------- | --------------- | ----------- | ----- | ------------ |
 | [60C4CE4888FF4621](https://reforger.armaplatform.com/workshop/60C4CE4888FF4621) | ACE                   | acemod          | 1.3.2       | -     | -            |
-| [67153CD5DC771D42](https://reforger.armaplatform.com/workshop/67153CD5DC771D42) | ARMA RY Soviet Optics | -               | 1.0.7       | -     | daveod06     |
-| [668F458EC133AE50](https://reforger.armaplatform.com/workshop/668F458EC133AE50) | ARMA-RY UZI           | -               | 1.0.9       | -     | daveod06     |
-| [0DD4EAB91956BC56](https://reforger.armaplatform.com/workshop/0DD4EAB91956BC56) | ArmaConflict_TukTuk   | -               | 1.0.4       | -     | daveod06     |
+| [67153CD5DC771D42](https://reforger.armaplatform.com/workshop/67153CD5DC771D42) | ARMA RY Soviet Optics | ARMA-RY TEAM    | 1.0.7       | -     | daveod06     |
+| [668F458EC133AE50](https://reforger.armaplatform.com/workshop/668F458EC133AE50) | ARMA-RY UZI           | ARMA-RY TEAM    | 1.0.9       | -     | daveod06     |
+| [0DD4EAB91956BC56](https://reforger.armaplatform.com/workshop/0DD4EAB91956BC56) | ArmaConflict_TukTuk   | Jim0001         | 1.0.4       | -     | daveod06     |
 | [66B523AD189F3233](https://reforger.armaplatform.com/workshop/66B523AD189F3233) | Bandit Gear           | microplastic9000 | 0.16.4      | -     | daveod06, letyashiyvdal451-del |
 | [672295EAC56DE2AE](https://reforger.armaplatform.com/workshop/672295EAC56DE2AE) | BI Christmass Asset Pack 2025 | Bohemia Interactive | 1.0.0 | - | -          |
 | [61BD6595183FCEBD](https://reforger.armaplatform.com/workshop/61BD6595183FCEBD) | Big Chungus Bolt Guns | Big Chungus     | 1.0.66      | -     | daveod06     |
@@ -47,35 +47,35 @@ Last update of the source table: **22nd November 2026**.
 | [62A711001B8FDEEA](https://reforger.armaplatform.com/workshop/62A711001B8FDEEA) | Big Chungus Rifles    | Big Chungus     | 1.0.42      | -     | daveod06     |
 | [620E584B1D2C96A4](https://reforger.armaplatform.com/workshop/620E584B1D2C96A4) | Big Chungus Shotguns  | Big Chungus     | 1.0.49      | -     | daveod06     |
 | [60E6F54E174C53C5](https://reforger.armaplatform.com/workshop/60E6F54E174C53C5) | Big Chungus SMGs      | Big Chungus     | 1.0.51      | -     | daveod06     |
-| [65A4C3F421EFCE35](https://reforger.armaplatform.com/workshop/65A4C3F421EFCE35) | Browning Hi-Power     | -               | 1.0.1       | -     | daveod06     |
+| [65A4C3F421EFCE35](https://reforger.armaplatform.com/workshop/65A4C3F421EFCE35) | Browning Hi-Power     | Kylian1999      | 1.0.1       | -     | daveod06     |
 | [65171C2883CB81B4](https://reforger.armaplatform.com/workshop/65171C2883CB81B4) | BTR152                | Cole_reforger   | 1.0.16      | -     | daveod06     |
-| [64F3426A72CECBC3](https://reforger.armaplatform.com/workshop/64F3426A72CECBC3) | BUS PAZ-652           | -               | 1.0.11      | -     | daveod06     |
+| [64F3426A72CECBC3](https://reforger.armaplatform.com/workshop/64F3426A72CECBC3) | BUS PAZ-652           | Samoyloof       | 1.0.11      | -     | daveod06     |
 | [66EB571E8E689928](https://reforger.armaplatform.com/workshop/66EB571E8E689928) | Christmas Hat         | McTiddies4Lunch3 | 1.0.0      | -     | -            |
 | [623E0EA4ED5F44D5](https://reforger.armaplatform.com/workshop/623E0EA4ED5F44D5) | FAL                   | TioPatinhas600  | 1.0.13      | -     | -            |
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8              | Tiny Cube       | 1.0.1       | -     | -            |
-| [6F3A1C9E27B45D80](https://reforger.armaplatform.com/workshop/6F3A1C9E27B45D80) | GolfArma              | -               | 0.1.8       | -     | daveod06     |
-| [68F37454AC705E90](https://reforger.armaplatform.com/workshop/68F37454AC705E90) | Integrity - DShK      | -               | 0.2.1       | -     | daveod06     |
-| [68F6439E04A3E9A1](https://reforger.armaplatform.com/workshop/68F6439E04A3E9A1) | Integrity - SPG-9 Kopyo | -               | 0.2.0       | -     | daveod06     |
+| [6F3A1C9E27B45D80](https://reforger.armaplatform.com/workshop/6F3A1C9E27B45D80) | GolfArma              | McSchwiftys     | 0.1.8       | -     | daveod06     |
+| [68F37454AC705E90](https://reforger.armaplatform.com/workshop/68F37454AC705E90) | Integrity - DShK      | Integrity Gaming | 0.2.1       | -     | daveod06     |
+| [68F6439E04A3E9A1](https://reforger.armaplatform.com/workshop/68F6439E04A3E9A1) | Integrity - SPG-9 Kopyo | Integrity Gaming | 0.2.0       | -     | daveod06     |
 | [64DC1D98BF48F411](https://reforger.armaplatform.com/workshop/64DC1D98BF48F411) | Metabolism            | Hydr0_5kunk     | 0.0.30      | -     | -            |
-| [64CEC8E005828E5D](https://reforger.armaplatform.com/workshop/64CEC8E005828E5D) | MiddleEastInsurgents  | -               | 1.3.5       | -     | daveod06     |
-| [68FC03DFB1E2F1C7](https://reforger.armaplatform.com/workshop/68FC03DFB1E2F1C7) | Prontos FALs          | -               | 1.0.2       | -     | daveod06     |
+| [64CEC8E005828E5D](https://reforger.armaplatform.com/workshop/64CEC8E005828E5D) | MiddleEastInsurgents  | Skyrbose        | 1.3.5       | -     | daveod06     |
+| [68FC03DFB1E2F1C7](https://reforger.armaplatform.com/workshop/68FC03DFB1E2F1C7) | Prontos FALs          | Pronto          | 1.0.2       | -     | daveod06     |
 | [6528F296E88F783F](https://reforger.armaplatform.com/workshop/6528F296E88F783F) | RTGLaunches           | Solix.          | 1.0.5       | -     | -            |
 | [5D1880C4AD410C14](https://reforger.armaplatform.com/workshop/5D1880C4AD410C14) | M1 Abrams             | TheSpaceStrider | 2.1.14      | -     | -            |
 | [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV             | TheSpaceStrider | 9.0.2       | -     | daveod06     |
 | [5E5C154FEE1094BB](https://reforger.armaplatform.com/workshop/5E5C154FEE1094BB) | M113 APC              | TheSpaceStrider | 1.1.3       | -     | daveod06     |
-| [65D050C86106E5BC](https://reforger.armaplatform.com/workshop/65D050C86106E5BC) | Smokeable Smokes      | -               | 3.2.2       | -     | daveod06     |
-| [671C62C0F08EBFC4](https://reforger.armaplatform.com/workshop/671C62C0F08EBFC4) | Smokeables - Custom Gear Slots | -               | 3.2.2       | -     | daveod06     |
-| [69A70D9BBD5CFD33](https://reforger.armaplatform.com/workshop/69A70D9BBD5CFD33) | Smokeables - SGS Gear Slots | -               | 3.2.2       | -     | daveod06     |
-| [5D7D22C2C587DE66](https://reforger.armaplatform.com/workshop/5D7D22C2C587DE66) | SVT-40                | -               | 1.0.7       | -     | daveod06     |
+| [65D050C86106E5BC](https://reforger.armaplatform.com/workshop/65D050C86106E5BC) | Smokeable Smokes      | mattmorris616   | 3.2.2       | -     | daveod06     |
+| [671C62C0F08EBFC4](https://reforger.armaplatform.com/workshop/671C62C0F08EBFC4) | Smokeables - Custom Gear Slots | Sabersnack      | 3.2.2       | -     | daveod06     |
+| [69A70D9BBD5CFD33](https://reforger.armaplatform.com/workshop/69A70D9BBD5CFD33) | Smokeables - SGS Gear Slots | Sabersnack      | 3.2.2       | -     | daveod06     |
+| [5D7D22C2C587DE66](https://reforger.armaplatform.com/workshop/5D7D22C2C587DE66) | SVT-40                | SRGshadows      | 1.0.7       | -     | daveod06     |
 | [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 9.0.2       | -     | diraven, daveod06 |
-| [DEADC0DE00000002](https://reforger.armaplatform.com/workshop/DEADC0DE00000002) | Tactical Flava - BM-21 | -               | 1.6.3       | -     | daveod06     |
-| [DEADC0DE00000007](https://reforger.armaplatform.com/workshop/DEADC0DE00000007) | Tactical Flava - Turrets | -               | 1.6.0       | -     | daveod06     |
-| [652CF18E3B6C7DCD](https://reforger.armaplatform.com/workshop/652CF18E3B6C7DCD) | Takistani Uniforms    | -               | 3.3.0       | -     | daveod06     |
-| [655B1C6D21A4BD2B](https://reforger.armaplatform.com/workshop/655B1C6D21A4BD2B) | Takistani Vehicles    | -               | 3.3.9       | -     | daveod06     |
-| [6551071027EBF0B7](https://reforger.armaplatform.com/workshop/6551071027EBF0B7) | TakistaniFactions     | -               | 3.3.7       | -     | daveod06     |
+| [DEADC0DE00000002](https://reforger.armaplatform.com/workshop/DEADC0DE00000002) | Tactical Flava - BM-21 | KERNOV          | 1.6.3       | -     | daveod06     |
+| [DEADC0DE00000007](https://reforger.armaplatform.com/workshop/DEADC0DE00000007) | Tactical Flava - Turrets | KERNOV          | 1.6.0       | -     | daveod06     |
+| [652CF18E3B6C7DCD](https://reforger.armaplatform.com/workshop/652CF18E3B6C7DCD) | Takistani Uniforms    | Sabersnack      | 3.3.0       | -     | daveod06     |
+| [655B1C6D21A4BD2B](https://reforger.armaplatform.com/workshop/655B1C6D21A4BD2B) | Takistani Vehicles    | Sabersnack      | 3.3.9       | -     | daveod06     |
+| [6551071027EBF0B7](https://reforger.armaplatform.com/workshop/6551071027EBF0B7) | TakistaniFactions     | Sabersnack      | 3.3.7       | -     | daveod06     |
 | [62F2A5E273F2C481](https://reforger.armaplatform.com/workshop/62F2A5E273F2C481) | Tracksuit             | vill_chip       | 1.0.2       | -     | daveod06     |
-| [60422E19A1D92547](https://reforger.armaplatform.com/workshop/60422E19A1D92547) | TT-33                 | -               | 1.0.4       | -     | daveod06     |
-| [6910798D6DE6EA61](https://reforger.armaplatform.com/workshop/6910798D6DE6EA61) | VZ61                  | -               | 0.0.12      | -     | daveod06     |
+| [60422E19A1D92547](https://reforger.armaplatform.com/workshop/60422E19A1D92547) | TT-33                 | xXHavocHoundXx  | 1.0.4       | -     | daveod06     |
+| [6910798D6DE6EA61](https://reforger.armaplatform.com/workshop/6910798D6DE6EA61) | VZ61                  | Ragamuff        | 0.0.12      | -     | daveod06     |
 | [629B2BA37EFFD577](https://reforger.armaplatform.com/workshop/629B2BA37EFFD577) | WCS_Armaments         | Cyborgmatt      | 9.0.3       | -     | daveod06     |
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V            | Tonimontana     | 4.0.1       | -     | -            |
 | [62F364B35E9B51B0](https://reforger.armaplatform.com/workshop/62F364B35E9B51B0) | Wirecutters2          | dax5150         | 1.1.12      | -     | -            |
@@ -83,8 +83,8 @@ Last update of the source table: **22nd November 2026**.
 | [66BB768AC32D1A05](https://reforger.armaplatform.com/workshop/66BB768AC32D1A05) | YobananaboY Vietnam Pack | YobananaboY  | 1.0.16      | -     | daveod06     |
 | [64716A1F357EE8AD](https://reforger.armaplatform.com/workshop/64716A1F357EE8AD) | Yokais modern drip pack | Yokia 3-5-5   | 1.0.1       | -     | daveod06     |
 | [6052A9DD45564825](https://reforger.armaplatform.com/workshop/6052A9DD45564825) | You Can Sit           | V-lst           | 1.0.8       | -     | -            |
-| [69853A83EF75418F](https://reforger.armaplatform.com/workshop/69853A83EF75418F) | Yoyota DJ78           | -               | 1.0.9       | -     | daveod06     |
-| [67350654558A9C3D](https://reforger.armaplatform.com/workshop/67350654558A9C3D) | Zagoria 89 MTLB       | -               | 1.0.20      | -     | daveod06     |
-| [6730FB5A6302F4C7](https://reforger.armaplatform.com/workshop/6730FB5A6302F4C7) | Zagoria 89 T55        | -               | 1.0.21      | -     | daveod06     |
-| [62D15D0025AE021B](https://reforger.armaplatform.com/workshop/62D15D0025AE021B) | ZSU-23-4 Shilka       | -               | 1.1.6       | -     | daveod06     |
+| [69853A83EF75418F](https://reforger.armaplatform.com/workshop/69853A83EF75418F) | Yoyota DJ78           | Nekrika         | 1.0.9       | -     | daveod06     |
+| [67350654558A9C3D](https://reforger.armaplatform.com/workshop/67350654558A9C3D) | Zagoria 89 MTLB       | TandemHEAT      | 1.0.20      | -     | daveod06     |
+| [6730FB5A6302F4C7](https://reforger.armaplatform.com/workshop/6730FB5A6302F4C7) | Zagoria 89 T55        | TandemHEAT      | 1.0.21      | -     | daveod06     |
+| [62D15D0025AE021B](https://reforger.armaplatform.com/workshop/62D15D0025AE021B) | ZSU-23-4 Shilka       | Worst Case Scenario | 1.1.6       | -     | daveod06     |
 | [5C9AD9EF76F6B5EA](https://reforger.armaplatform.com/workshop/5C9AD9EF76F6B5EA) | ZU23                  | ceo_of_bacon    | 1.7.1       | -     | daveod06     |
