@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{30A643949963DFBA}Configs/Addons/StampedeMods/LAV_Life.conf"
+ Name "{CDEA8447DDDFE3B9}Configs/Addons/VZ61.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
