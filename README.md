@@ -49,6 +49,7 @@ Last update of the source table: **22nd November 2026**.
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8              | Tiny Cube       | 1.0.1       | -     | -            |
 | [64DC1D98BF48F411](https://reforger.armaplatform.com/workshop/64DC1D98BF48F411) | Metabolism            | Hydr0_5kunk     | 0.0.30      | -     | -            |
 | [64CEC8E005828E5D](https://reforger.armaplatform.com/workshop/64CEC8E005828E5D) | MiddleEastInsurgents  | -               | 1.3.5       | -     | daveod06     |
+| [68FC03DFB1E2F1C7](https://reforger.armaplatform.com/workshop/68FC03DFB1E2F1C7) | Prontos FALs          | -               | 1.0.2       | -     | daveod06     |
 | [6528F296E88F783F](https://reforger.armaplatform.com/workshop/6528F296E88F783F) | RTGLaunches           | Solix.          | 1.0.5       | -     | -            |
 | [5D1880C4AD410C14](https://reforger.armaplatform.com/workshop/5D1880C4AD410C14) | M1 Abrams             | TheSpaceStrider | 2.1.14      | -     | -            |
 | [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV             | TheSpaceStrider | 9.0.2       | -     | daveod06     |
