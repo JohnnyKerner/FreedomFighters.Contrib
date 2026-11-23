@@ -13,22 +13,22 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **25th February 2026**.
+Last update of the source table: **22nd November 2026**.
 
 | Language | In-game            | Completion | Comments | Contributors                  |
 | -------- | ------------------ | ---------- | -------- | ----------------------------- |
-| cz       | :white_check_mark: | 82%        | -        | ataribaby                     |
-| de       | :white_check_mark: | 70%        | -        | lampiooo, sirlukevonosna95    |
-| es       | :white_check_mark: | 98%        | -        | frantik03, errorfatal404      |
-| fr       | :white_check_mark: | 82%        | -        | et_s, benjibossk, marcus.3954 |
-| it       | :x:                | 0%         | -        | -                             |
-| ja       | :x:                | 0%         | -        | -                             |
-| ko       | :x:                | 0%         | -        | -                             |
-| pl       | :white_check_mark: | 98%        | -        | kartonik5209, werek_90145     |
-| pt       | :white_check_mark: | 82%        | -        | mad_junior1704                |
-| ru       | :white_check_mark: | 82%        | -        | thesnakyeyes                  |
-| uk       | :white_check_mark: | 98%        | -        | diraven, crioua               |
-| zh_cn    | :white_check_mark: | 63%        | -        | fantastic_possum_18059        |
+| cz       | :white_check_mark: | 89%        | -        | ataribaby                     |
+| de       | :white_check_mark: | 64%        | -        | lampiooo, sirlukevonosna95    |
+| es       | :white_check_mark: | 88%        | -        | frantik03, errorfatal404      |
+| fr       | :white_check_mark: | 73%        | -        | et_s, benjibossk, marcus.3954 |
+| it       | :x:                | 45%        | -        | -                             |
+| ja       | :white_check_mark: | 84%        | -        | howyi                         |
+| ko       | :white_check_mark: | 84%        | -        | TY554                         |
+| pl       | :white_check_mark: | 88%        | -        | kartonik5209, werek_90145     |
+| pt       | :white_check_mark: | 73%        | -        | mad_junior1704                |
+| ru       | :white_check_mark: | 73%        | -        | thesnakyeyes                  |
+| uk       | :white_check_mark: | 85%        | -        | diraven, crioua               |
+| zh_cn    | :white_check_mark: | 85%        | -        | fantastic_possum_18059, blenkor |
 
 ## Integrations status
 
@@ -60,6 +60,7 @@ Last update of the source table: **25th February 2026**.
 | [62F2A5E273F2C481](https://reforger.armaplatform.com/workshop/62F2A5E273F2C481) | Tracksuit             | vill_chip       | 1.0.2       | -     | daveod06     |
 | [629B2BA37EFFD577](https://reforger.armaplatform.com/workshop/629B2BA37EFFD577) | WCS_Armaments         | Cyborgmatt      | 4.0.1       | -     | -            |
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V            | Tonimontana     | 4.0.1       | -     | -            |
+| [62F364B35E9B51B0](https://reforger.armaplatform.com/workshop/62F364B35E9B51B0) | Wirecutters2          | dax5150         | 1.1.12      | -     | -            |
 | [617AC5E57EF1D9E3](https://reforger.armaplatform.com/workshop/617AC5E57EF1D9E3) | WZ Vehicles           | TandemHEAT      | 1.0.120     | -     | -            |
 | [66BB768AC32D1A05](https://reforger.armaplatform.com/workshop/66BB768AC32D1A05) | YobananaboY Vietnam Pack | YobananaboY  | 1.0.13      | -     | daveod06     |
 | [64716A1F357EE8AD](https://reforger.armaplatform.com/workshop/64716A1F357EE8AD) | Yokais modern drip pack | Yokia 3-5-5   | 1.0.1       | -     | daveod06     |
