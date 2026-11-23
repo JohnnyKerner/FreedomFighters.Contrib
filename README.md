@@ -43,16 +43,12 @@ Last update of the source table: **22nd November 2026**.
 | [62A711001B8FDEEA](https://reforger.armaplatform.com/workshop/62A711001B8FDEEA) | Big Chungus Rifles    | Big Chungus     | 1.0.42      | -     | daveod06     |
 | [620E584B1D2C96A4](https://reforger.armaplatform.com/workshop/620E584B1D2C96A4) | Big Chungus Shotguns  | Big Chungus     | 1.0.49      | -     | daveod06     |
 | [60E6F54E174C53C5](https://reforger.armaplatform.com/workshop/60E6F54E174C53C5) | Big Chungus SMGs      | Big Chungus     | 1.0.51      | -     | daveod06     |
-| [647944445C577430](https://reforger.armaplatform.com/workshop/647944445C577430) | BM21                  | Gantelya        | 1.0.9       | -     | daveod06     |
 | [65171C2883CB81B4](https://reforger.armaplatform.com/workshop/65171C2883CB81B4) | BTR152                | Cole_reforger   | 1.0.15      | -     | daveod06     |
 | [66EB571E8E689928](https://reforger.armaplatform.com/workshop/66EB571E8E689928) | Christmas Hat         | McTiddies4Lunch3 | 1.0.0      | -     | -            |
-| [66E284A04F30E175](https://reforger.armaplatform.com/workshop/66E284A04F30E175) | Cold War CZ75         | StampedeMods    | 1.0.6       | -     | daveod06     |
-| [66C2AAEACA445073](https://reforger.armaplatform.com/workshop/66C2AAEACA445073) | Cold War M880         | StampedeMods    | 1.0.2       | -     | daveod06     |
 | [623E0EA4ED5F44D5](https://reforger.armaplatform.com/workshop/623E0EA4ED5F44D5) | FAL                   | TioPatinhas600  | 1.0.13      | -     | -            |
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8              | Tiny Cube       | 1.0.1       | -     | -            |
 | [64DC1D98BF48F411](https://reforger.armaplatform.com/workshop/64DC1D98BF48F411) | Metabolism            | Hydr0_5kunk     | 0.0.30      | -     | -            |
 | [6528F296E88F783F](https://reforger.armaplatform.com/workshop/6528F296E88F783F) | RTGLaunches           | Solix.          | 1.0.5       | -     | -            |
-| [64FF037B7FF43037](https://reforger.armaplatform.com/workshop/64FF037B7FF43037) | LAV Life MANW_2025    | StampedeMods    | 6.0.6       | -     | daveod06     |
 | [5D1880C4AD410C14](https://reforger.armaplatform.com/workshop/5D1880C4AD410C14) | M1 Abrams             | TheSpaceStrider | 2.1.14      | -     | -            |
 | [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV             | TheSpaceStrider | 1.1.3       | -     | -            |
 | [5E5C154FEE1094BB](https://reforger.armaplatform.com/workshop/5E5C154FEE1094BB) | M113 APC              | TheSpaceStrider | 1.1.3       | -     | -            |
