@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{8C6FD884CABA2E56}Configs/Addons/M880.conf"
+ Name "{1D4A8ACB3F1FB374}Configs/Addons/TakistaniVehicles.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
