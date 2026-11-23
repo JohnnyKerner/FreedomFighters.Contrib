@@ -53,6 +53,7 @@ Last update of the source table: **22nd November 2026**.
 | [5D1880C4AD410C14](https://reforger.armaplatform.com/workshop/5D1880C4AD410C14) | M1 Abrams             | TheSpaceStrider | 2.1.14      | -     | -            |
 | [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV             | TheSpaceStrider | 9.0.2       | -     | daveod06     |
 | [5E5C154FEE1094BB](https://reforger.armaplatform.com/workshop/5E5C154FEE1094BB) | M113 APC              | TheSpaceStrider | 1.1.3       | -     | daveod06     |
+| [5D7D22C2C587DE66](https://reforger.armaplatform.com/workshop/5D7D22C2C587DE66) | SVT-40                | -               | 1.0.7       | -     | daveod06     |
 | [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 9.0.2       | -     | diraven, daveod06 |
 | [DEADC0DE00000002](https://reforger.armaplatform.com/workshop/DEADC0DE00000002) | Tactical Flava - BM-21 | -               | 1.6.3       | -     | daveod06     |
 | [DEADC0DE00000007](https://reforger.armaplatform.com/workshop/DEADC0DE00000007) | Tactical Flava - Turrets | -               | 1.6.0       | -     | daveod06     |
