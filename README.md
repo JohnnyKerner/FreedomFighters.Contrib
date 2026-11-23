@@ -56,6 +56,7 @@ Last update of the source table: **22nd November 2026**.
 | [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 9.0.2       | -     | diraven, daveod06 |
 | [6551071027EBF0B7](https://reforger.armaplatform.com/workshop/6551071027EBF0B7) | TakistaniFactions     | -               | 3.3.7       | -     | daveod06     |
 | [62F2A5E273F2C481](https://reforger.armaplatform.com/workshop/62F2A5E273F2C481) | Tracksuit             | vill_chip       | 1.0.2       | -     | daveod06     |
+| [60422E19A1D92547](https://reforger.armaplatform.com/workshop/60422E19A1D92547) | TT-33                 | -               | 1.0.4       | -     | daveod06     |
 | [6910798D6DE6EA61](https://reforger.armaplatform.com/workshop/6910798D6DE6EA61) | VZ61                  | -               | 0.0.12      | -     | daveod06     |
 | [629B2BA37EFFD577](https://reforger.armaplatform.com/workshop/629B2BA37EFFD577) | WCS_Armaments         | Cyborgmatt      | 9.0.3       | -     | daveod06     |
 | [628933A0D3A0D700](https://reforger.armaplatform.com/workshop/628933A0D3A0D700) | WCS_Mi-24V            | Tonimontana     | 4.0.1       | -     | -            |
