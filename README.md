@@ -28,7 +28,7 @@ Last update of the source table: **22nd November 2026**.
 | pt       | :white_check_mark: | 73%        | -        | mad_junior1704                |
 | ru       | :white_check_mark: | 73%        | -        | thesnakyeyes                  |
 | uk       | :white_check_mark: | 85%        | -        | diraven, crioua               |
-| zh_cn    | :white_check_mark: | 56%        | -        | fantastic_possum_18059        |
+| zh_cn    | :white_check_mark: | 85%        | -        | fantastic_possum_18059, blenkor |
 
 ## Integrations status
 
