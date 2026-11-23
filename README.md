@@ -44,6 +44,7 @@ Last update of the source table: **22nd November 2026**.
 | [620E584B1D2C96A4](https://reforger.armaplatform.com/workshop/620E584B1D2C96A4) | Big Chungus Shotguns  | Big Chungus     | 1.0.49      | -     | daveod06     |
 | [60E6F54E174C53C5](https://reforger.armaplatform.com/workshop/60E6F54E174C53C5) | Big Chungus SMGs      | Big Chungus     | 1.0.51      | -     | daveod06     |
 | [65171C2883CB81B4](https://reforger.armaplatform.com/workshop/65171C2883CB81B4) | BTR152                | Cole_reforger   | 1.0.16      | -     | daveod06     |
+| [64F3426A72CECBC3](https://reforger.armaplatform.com/workshop/64F3426A72CECBC3) | BUS PAZ-652           | -               | 1.0.11      | -     | daveod06     |
 | [66EB571E8E689928](https://reforger.armaplatform.com/workshop/66EB571E8E689928) | Christmas Hat         | McTiddies4Lunch3 | 1.0.0      | -     | -            |
 | [623E0EA4ED5F44D5](https://reforger.armaplatform.com/workshop/623E0EA4ED5F44D5) | FAL                   | TioPatinhas600  | 1.0.13      | -     | -            |
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8              | Tiny Cube       | 1.0.1       | -     | -            |
