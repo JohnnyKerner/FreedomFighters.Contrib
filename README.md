@@ -35,6 +35,7 @@ Last update of the source table: **22nd November 2026**.
 | Mod ID                                                                          | Label                 | Author          | Mod version | Notes | Contributors |
 | ------------------------------------------------------------------------------- | --------------------- | --------------- | ----------- | ----- | ------------ |
 | [60C4CE4888FF4621](https://reforger.armaplatform.com/workshop/60C4CE4888FF4621) | ACE                   | acemod          | 1.3.2       | -     | -            |
+| [66B523AD189F3233](https://reforger.armaplatform.com/workshop/66B523AD189F3233) | Bandit Gear           | microplastic9000 | 0.16.4      | -     | daveod06, letyashiyvdal451-del |
 | [672295EAC56DE2AE](https://reforger.armaplatform.com/workshop/672295EAC56DE2AE) | BI Christmass Asset Pack 2025 | Bohemia Interactive | 1.0.0 | - | -          |
 | [61BD6595183FCEBD](https://reforger.armaplatform.com/workshop/61BD6595183FCEBD) | Big Chungus Bolt Guns | Big Chungus     | 1.0.66      | -     | daveod06     |
 | [6190F1B505C08562](https://reforger.armaplatform.com/workshop/6190F1B505C08562) | Big Chungus Launchers | Big Chungus     | 1.0.35      | -     | daveod06     |
