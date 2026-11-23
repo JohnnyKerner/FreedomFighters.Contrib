@@ -13,7 +13,7 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **1st November 2026**.
+Last update of the source table: **22nd November 2026**.
 
 | Language | In-game            | Completion | Comments | Contributors                  |
 | -------- | ------------------ | ---------- | -------- | ----------------------------- |
@@ -27,7 +27,7 @@ Last update of the source table: **1st November 2026**.
 | pl       | :white_check_mark: | 88%        | -        | kartonik5209, werek_90145     |
 | pt       | :white_check_mark: | 73%        | -        | mad_junior1704                |
 | ru       | :white_check_mark: | 73%        | -        | thesnakyeyes                  |
-| uk       | :white_check_mark: | 88%        | -        | diraven, crioua               |
+| uk       | :white_check_mark: | 85%        | -        | diraven, crioua               |
 | zh_cn    | :white_check_mark: | 56%        | -        | fantastic_possum_18059        |
 
 ## Integrations status
