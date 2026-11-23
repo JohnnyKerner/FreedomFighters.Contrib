@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{30A643949963DFBA}Configs/Addons/StampedeMods/LAV_Life.conf"
+ Name "{43F7642B23E206E0}Configs/Addons/ARMA-RY_UZI.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
