@@ -63,6 +63,7 @@ Last update of the source table: **22nd November 2026**.
 | [66BB768AC32D1A05](https://reforger.armaplatform.com/workshop/66BB768AC32D1A05) | YobananaboY Vietnam Pack | YobananaboY  | 1.0.16      | -     | daveod06     |
 | [64716A1F357EE8AD](https://reforger.armaplatform.com/workshop/64716A1F357EE8AD) | Yokais modern drip pack | Yokia 3-5-5   | 1.0.1       | -     | daveod06     |
 | [6052A9DD45564825](https://reforger.armaplatform.com/workshop/6052A9DD45564825) | You Can Sit           | V-lst           | 1.0.8       | -     | -            |
+| [69853A83EF75418F](https://reforger.armaplatform.com/workshop/69853A83EF75418F) | Yoyota DJ78           | -               | 1.0.9       | -     | daveod06     |
 | [67350654558A9C3D](https://reforger.armaplatform.com/workshop/67350654558A9C3D) | Zagoria 89 MTLB       | -               | 1.0.20      | -     | daveod06     |
 | [6730FB5A6302F4C7](https://reforger.armaplatform.com/workshop/6730FB5A6302F4C7) | Zagoria 89 T55        | -               | 1.0.21      | -     | daveod06     |
 | [62D15D0025AE021B](https://reforger.armaplatform.com/workshop/62D15D0025AE021B) | ZSU-23-4 Shilka       | -               | 1.1.6       | -     | daveod06     |
