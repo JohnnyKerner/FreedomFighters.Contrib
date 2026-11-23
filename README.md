@@ -47,6 +47,7 @@ Last update of the source table: **22nd November 2026**.
 | [66EB571E8E689928](https://reforger.armaplatform.com/workshop/66EB571E8E689928) | Christmas Hat         | McTiddies4Lunch3 | 1.0.0      | -     | -            |
 | [623E0EA4ED5F44D5](https://reforger.armaplatform.com/workshop/623E0EA4ED5F44D5) | FAL                   | TioPatinhas600  | 1.0.13      | -     | -            |
 | [631D09484433EB0A](https://reforger.armaplatform.com/workshop/631D09484433EB0A) | FIA Mi-8              | Tiny Cube       | 1.0.1       | -     | -            |
+| [68F6439E04A3E9A1](https://reforger.armaplatform.com/workshop/68F6439E04A3E9A1) | Integrity - SPG-9 Kopyo | -               | 0.2.0       | -     | daveod06     |
 | [64DC1D98BF48F411](https://reforger.armaplatform.com/workshop/64DC1D98BF48F411) | Metabolism            | Hydr0_5kunk     | 0.0.30      | -     | -            |
 | [64CEC8E005828E5D](https://reforger.armaplatform.com/workshop/64CEC8E005828E5D) | MiddleEastInsurgents  | -               | 1.3.5       | -     | daveod06     |
 | [68FC03DFB1E2F1C7](https://reforger.armaplatform.com/workshop/68FC03DFB1E2F1C7) | Prontos FALs          | -               | 1.0.2       | -     | daveod06     |
