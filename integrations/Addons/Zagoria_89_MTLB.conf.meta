@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{8C6FD884CABA2E56}Configs/Addons/M880.conf"
+ Name "{CF9C9928610B7652}Configs/Addons/Zagoria_89_MTLB.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
