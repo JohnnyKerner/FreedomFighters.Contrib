@@ -36,13 +36,13 @@ Last update of the source table: **22nd November 2026**.
 | ------------------------------------------------------------------------------- | --------------------- | --------------- | ----------- | ----- | ------------ |
 | [60C4CE4888FF4621](https://reforger.armaplatform.com/workshop/60C4CE4888FF4621) | ACE                   | acemod          | 1.3.2       | -     | -            |
 | [672295EAC56DE2AE](https://reforger.armaplatform.com/workshop/672295EAC56DE2AE) | BI Christmass Asset Pack 2025 | Bohemia Interactive | 1.0.0 | - | -          |
-| [61BD6595183FCEBD](https://reforger.armaplatform.com/workshop/61BD6595183FCEBD) | Big Chungus Bolt Guns | Big Chungus     | 1.0.57      | -     | -            |
-| [6190F1B505C08562](https://reforger.armaplatform.com/workshop/6190F1B505C08562) | Big Chungus Launchers | Big Chungus     | 1.0.29      | -     | -            |
-| [61344BDC155A5A28](https://reforger.armaplatform.com/workshop/61344BDC155A5A28) | Big Chungus LMGs      | Big Chungus     | 1.0.17      | -     | -            |
+| [61BD6595183FCEBD](https://reforger.armaplatform.com/workshop/61BD6595183FCEBD) | Big Chungus Bolt Guns | Big Chungus     | 1.0.66      | -     | daveod06     |
+| [6190F1B505C08562](https://reforger.armaplatform.com/workshop/6190F1B505C08562) | Big Chungus Launchers | Big Chungus     | 1.0.35      | -     | daveod06     |
+| [61344BDC155A5A28](https://reforger.armaplatform.com/workshop/61344BDC155A5A28) | Big Chungus LMGs      | Big Chungus     | 1.0.24      | -     | daveod06     |
 | [61B84088181A8FA4](https://reforger.armaplatform.com/workshop/61B84088181A8FA4) | Big Chungus Motorbike | Big Chungus     | 1.0.17      | -     | -            |
-| [62A711001B8FDEEA](https://reforger.armaplatform.com/workshop/62A711001B8FDEEA) | Big Chungus Rifles    | Big Chungus     | 1.0.32      | -     | -            |
-| [620E584B1D2C96A4](https://reforger.armaplatform.com/workshop/620E584B1D2C96A4) | Big Chungus Shotguns  | Big Chungus     | 1.0.34      | -     | -            |
-| [60E6F54E174C53C5](https://reforger.armaplatform.com/workshop/60E6F54E174C53C5) | Big Chungus SMGs      | Big Chungus     | 1.0.45      | -     | -            |
+| [62A711001B8FDEEA](https://reforger.armaplatform.com/workshop/62A711001B8FDEEA) | Big Chungus Rifles    | Big Chungus     | 1.0.42      | -     | daveod06     |
+| [620E584B1D2C96A4](https://reforger.armaplatform.com/workshop/620E584B1D2C96A4) | Big Chungus Shotguns  | Big Chungus     | 1.0.49      | -     | daveod06     |
+| [60E6F54E174C53C5](https://reforger.armaplatform.com/workshop/60E6F54E174C53C5) | Big Chungus SMGs      | Big Chungus     | 1.0.51      | -     | daveod06     |
 | [647944445C577430](https://reforger.armaplatform.com/workshop/647944445C577430) | BM21                  | Gantelya        | 1.0.9       | -     | daveod06     |
 | [65171C2883CB81B4](https://reforger.armaplatform.com/workshop/65171C2883CB81B4) | BTR152                | Cole_reforger   | 1.0.15      | -     | daveod06     |
 | [66EB571E8E689928](https://reforger.armaplatform.com/workshop/66EB571E8E689928) | Christmas Hat         | McTiddies4Lunch3 | 1.0.0      | -     | -            |
