@@ -54,6 +54,7 @@ Last update of the source table: **22nd November 2026**.
 | [5E524E4FEECCA92B](https://reforger.armaplatform.com/workshop/5E524E4FEECCA92B) | BMP-1 IFV             | TheSpaceStrider | 9.0.2       | -     | daveod06     |
 | [5E5C154FEE1094BB](https://reforger.armaplatform.com/workshop/5E5C154FEE1094BB) | M113 APC              | TheSpaceStrider | 1.1.3       | -     | daveod06     |
 | [5E0AB16BEB16D6A4](https://reforger.armaplatform.com/workshop/5E0AB16BEB16D6A4) | T-72 Main Battle Tank | TheSpaceStrider | 9.0.2       | -     | diraven, daveod06 |
+| [652CF18E3B6C7DCD](https://reforger.armaplatform.com/workshop/652CF18E3B6C7DCD) | Takistani Uniforms    | -               | 3.3.0       | -     | daveod06     |
 | [655B1C6D21A4BD2B](https://reforger.armaplatform.com/workshop/655B1C6D21A4BD2B) | Takistani Vehicles    | -               | 3.3.9       | -     | daveod06     |
 | [6551071027EBF0B7](https://reforger.armaplatform.com/workshop/6551071027EBF0B7) | TakistaniFactions     | -               | 3.3.7       | -     | daveod06     |
 | [62F2A5E273F2C481](https://reforger.armaplatform.com/workshop/62F2A5E273F2C481) | Tracksuit             | vill_chip       | 1.0.2       | -     | daveod06     |
