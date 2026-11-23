@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{4C7AD19D3B7961CD}Configs/Addons/BM-21_Gantelya.conf"
+ Name "{BB7DAFE071C1548A}Configs/Addons/ZSU-23-4_Shilka.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
