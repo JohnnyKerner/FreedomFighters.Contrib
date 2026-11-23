@@ -13,20 +13,20 @@ Please make sure to read the project's license and [contribution terms](docs/con
 
 ## Translations status
 
-Last update of the source table: **22nd November 2026**.
+Last update of the source table: **23rd November 2026**.
 
 | Language | In-game            | Completion | Comments | Contributors                  |
 | -------- | ------------------ | ---------- | -------- | ----------------------------- |
-| cz       | :white_check_mark: | 89%        | -        | ataribaby                     |
-| de       | :white_check_mark: | 64%        | -        | lampiooo, sirlukevonosna95    |
-| es       | :white_check_mark: | 88%        | -        | frantik03, errorfatal404      |
-| fr       | :white_check_mark: | 73%        | -        | et_s, benjibossk, marcus.3954 |
-| it       | :x:                | 45%        | -        | -                             |
+| cz       | :white_check_mark: | 85%        | -        | ataribaby                     |
+| de       | :white_check_mark: | 62%        | -        | lampiooo, sirlukevonosna95    |
+| es       | :white_check_mark: | 84%        | -        | frantik03, errorfatal404      |
+| fr       | :white_check_mark: | 70%        | -        | et_s, benjibossk, marcus.3954 |
+| it       | :x:                | 43%        | -        | -                             |
 | ja       | :white_check_mark: | 84%        | -        | howyi                         |
 | ko       | :white_check_mark: | 84%        | -        | TY554                         |
-| pl       | :white_check_mark: | 88%        | -        | kartonik5209, werek_90145     |
-| pt       | :white_check_mark: | 73%        | -        | mad_junior1704                |
-| ru       | :white_check_mark: | 73%        | -        | thesnakyeyes                  |
+| pl       | :white_check_mark: | 84%        | -        | kartonik5209, werek_90145     |
+| pt       | :white_check_mark: | 70%        | -        | mad_junior1704                |
+| ru       | :white_check_mark: | 70%        | -        | thesnakyeyes                  |
 | uk       | :white_check_mark: | 85%        | -        | diraven, crioua               |
 | zh_cn    | :white_check_mark: | 85%        | -        | fantastic_possum_18059, blenkor |
 
