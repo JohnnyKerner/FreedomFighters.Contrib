@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{5C188AA677FBAFC0}Configs/Integrations/Cz75_StampedeMods.conf"
+ Name "{BB7DAFE071C1548A}Configs/Addons/ZSU-23-4_Shilka.conf"
  Configurations {
   CONFResourceClass PC {
   }
@@ -12,6 +12,8 @@ MetaFileClass {
   CONFResourceClass PS5 : PC {
   }
   CONFResourceClass HEADLESS : PC {
+  }
+  CONFResourceClass Xbox : PC {
   }
  }
 }
